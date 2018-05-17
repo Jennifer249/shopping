@@ -1,3 +1,7 @@
+---
+typora-root-url: image
+---
+
 # shopping
 
 > A Vue.js project
@@ -10,12 +14,22 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## show
+
+**商品筛选、正则搜索商品、加入购物车、进入商品详情界面：**
+
+![1](/1.png)
+
+**商品详情界面：**
+
+![3](/3.png)
+
+
+
+**购物车界面：**
+
+![2](/2.png)
